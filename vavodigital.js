@@ -9,3 +9,4 @@ Interview Question from Vavo Digital (React Native)
 8. what are hooks
 9. what is flexbox
 10. difference between states and props
+11. What is state management
